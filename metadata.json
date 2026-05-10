@@ -1,0 +1,6 @@
+{
+  "name": "Kuas Ajaib: Petualangan Kata",
+  "description": "Edugame interaktif untuk anak SD Kelas 1-3 untuk belajar kosakata melalui petualangan kata ajaib dengan bantuan AI Gemini dan Imagen.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Image Generation", "Interactive Voice Assistant"]
+}
